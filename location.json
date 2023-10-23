@@ -1,0 +1,23 @@
+
+
+# Crie um dicionário com as informações de geolocalização para as províncias de Angola.
+geolocalizacao_angola = {
+    "Bengo": {"latitude": -9.670453, "longitude": 14.417408},
+    "Benguela": {"latitude": -12.576732, "longitude": 13.405542},
+    "Bié": {"latitude": -12.576732, "longitude": 17.286007},
+    "Cabinda": {"latitude": -5.552574, "longitude": 12.200013},
+    "Cuando Cubango": {"latitude": -15.089950, "longitude": 18.711103},
+    "Cuanza Norte": {"latitude": -8.184554, "longitude": 14.837009},
+    "Cuanza Sul": {"latitude": -9.063555, "longitude": 14.973241},
+    "Cunene": {"latitude": -17.609846, "longitude": 15.078076},
+    "Huambo": {"latitude": -12.756225, "longitude": 15.739338},
+    "Huíla": {"latitude": -14.930398, "longitude": 13.491504},
+    "Luanda": {"latitude": -8.839987, "longitude": 13.289436},
+    "Lunda Norte": {"latitude": -8.439253, "longitude": 20.744558},
+    "Lunda Sul": {"latitude": -10.282806, "longitude": 19.576717},
+    "Malanje": {"latitude": -9.666909, "longitude": 16.343389},
+    "Moxico": {"latitude": -13.416972, "longitude": 20.816179},
+    "Namibe": {"latitude": -15.196123, "longitude": 12.152156},
+    "Uíge": {"latitude": -7.616460, "longitude": 15.048285},
+    "Zaire": {"latitude": -6.266394, "longitude": 12.325652}
+}
