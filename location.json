@@ -2,7 +2,7 @@
 
 # Crie um dicionário com as informações de geolocalização para as províncias de Angola.
 geolocalizacao_angola = {
-    "Bengo": {"latitude": -9.670453, "longitude": 14.417408},
+    "PA_ATLETICO": {"latitude": -9.670453, "longitude": 14.417408},
     "Benguela": {"latitude": -12.576732, "longitude": 13.405542},
     "Bié": {"latitude": -12.576732, "longitude": 17.286007},
     "Cabinda": {"latitude": -5.552574, "longitude": 12.200013},
